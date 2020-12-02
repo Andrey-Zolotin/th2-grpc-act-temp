@@ -138,7 +138,6 @@ bintray {
     pkg {
         repo = 'th2'
         name = rootProject.name
-        userOrg = 'exactpro'
         licenses = ['Apache-2.0']
         vcsUrl = project.vcs_url
         version {
